@@ -1,4 +1,4 @@
-# Customer Segmentation Model
+# LLM based Customer Segmentation Model
 
 ## Overview
 This project implements a customer segmentation model that leverages the power of BERTopic for topic modeling and Cohere's API for generating insightful topics from customer data.
